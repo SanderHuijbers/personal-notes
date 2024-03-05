@@ -1,0 +1,53 @@
+{
+  "logoType": "default",
+  "logo": {
+    "lucideIcon": "",
+    "imagePath": "",
+    "imageLink": ""
+  },
+  "logoScale": 1.2,
+  "iconColorType": "default",
+  "wordmark": "Obsidian",
+  "customFont": "interfaceFont",
+  "fontSize": "4em",
+  "fontColorType": "default",
+  "fontWeight": 600,
+  "maxResults": 5,
+  "showStarredFiles": false,
+  "showRecentFiles": false,
+  "maxRecentFiles": 5,
+  "storeRecentFile": true,
+  "showPath": true,
+  "selectionHighlight": "default",
+  "showShortcuts": true,
+  "markdownOnly": false,
+  "unresolvedLinks": false,
+  "recentFilesStore": [
+    {
+      "filepath": "Opzetten-site-to-site-vpn.md",
+      "timestamp": 1709631527565
+    },
+    {
+      "filepath": "notes/Digitale_certificaten.md",
+      "timestamp": 1709631490898
+    },
+    {
+      "filepath": "notes/Tanzu/Tanzu_demo.md",
+      "timestamp": 1709631438920
+    },
+    {
+      "filepath": "debugging/ssh.md",
+      "timestamp": 1709041441190
+    },
+    {
+      "filepath": "kubectl_aliases.md",
+      "timestamp": 1708695009993
+    }
+  ],
+  "starredFileStore": [],
+  "searchDelay": 0,
+  "replaceNewTabs": true,
+  "newTabOnStart": false,
+  "closePreviousSessionTabs": false,
+  "omnisearch": false
+}

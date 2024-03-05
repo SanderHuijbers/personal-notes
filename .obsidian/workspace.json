@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "7ba76fef2133fe29",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f3f5b171a5fd9c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "062dcfd5b8c420c3",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d68d01d672de0c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Opzetten-site-to-site-vpn.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4b792cca796b5fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "43aab6cec79d9ffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd87e9e2f1de3ad5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40233d4d323ee1ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "mtls",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f1ccb4c9fb0d40e8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a4d574fc86ff995",
+    "type": "split",
+    "children": [
+      {
+        "id": "07d6f1965bc10613",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b98e0a9d25052c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Opzetten-site-to-site-vpn.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23e0e82bd50443c2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Opzetten-site-to-site-vpn.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc0d5a491febb986",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e14ec739d0a05a68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Opzetten-site-to-site-vpn.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d68d01d672de0c51",
+  "lastOpenFiles": [
+    "notes/Digitale_certificaten.md",
+    "Opzetten-site-to-site-vpn.md",
+    "notes/Tanzu/Tanzu_demo.md",
+    "debugging/ssh.md",
+    "Sriracha.md",
+    "Recepten/sriracha.md",
+    "Recepten/masala-kruiden.md",
+    "Recepten/kip-masala.md",
+    "kubectl_aliases.md",
+    "notes/Kubernetes_cka.md",
+    "notes/Tanzu/tanzu_poc.md",
+    "notes/apps-overzetten.md",
+    "notes/Puppet/Friducation/19_Puppetfile.md",
+    "notes/Puppet/Friducation/18_Control repository.md",
+    "notes/Puppet/Friducation/17_Defined resource types.md",
+    "notes/Puppet/Friducation/16_Hiera.md",
+    "notes/Puppet/Friducation/15_Roles and profiles.md",
+    "notes/Puppet/Friducation/14_The Forge.md",
+    "notes/Puppet/Friducation/13_Conditional Statements.md",
+    "notes/Puppet/Friducation/12_Facts.md",
+    "notes/Puppet/Friducation/11_Class parameters.md",
+    "notes/Puppet/Friducation/10_Variables and templates.md",
+    "notes/Puppet/Friducation/09_Package file service.md",
+    "notes/Puppet/Friducation/08_Manifests and classes.md",
+    "notes/Puppet/Friducation/07_Agent Run.md",
+    "notes/Puppet/Friducation/06_Hello Puppet.md",
+    "notes/Puppet/Friducation",
+    "notes/Puppet",
+    "notes/Tanzu",
+    "notes/ValidSign",
+    "images/HEx-overzicht-van-Martijn.png",
+    "images/example_ssl_handshake.png",
+    "notes",
+    "notes",
+    "notes/HEx",
+    "notes/k9s",
+    "Recepten",
+    "images/blabla.png",
+    "images/bla.png",
+    "images/kubernetes_auit_stages_2.png",
+    "images/kubernetes_audit_stages.png",
+    "images/keycloak-overview.png",
+    "images/voorbeeld_kubernetes_audit_policy.png",
+    "images/psp/rbac-flow.png",
+    "images/erik.png",
+    "notes/Kubernetes-auditing",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}
