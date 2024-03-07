@@ -11,20 +11,15 @@
             "id": "062dcfd5b8c420c3",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "d68d01d672de0c51",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Recepten/Yakitori.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mtls",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Recepten/Yakitori.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Recepten/Yakitori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Recepten/Yakitori.md"
+              }
             }
           }
         ],
@@ -149,8 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d68d01d672de0c51",
+  "active": "062dcfd5b8c420c3",
   "lastOpenFiles": [
+    "3d-printen.md",
+    "Recepten/kip-masala.md",
+    "Recepten/Groene-Lasagna-Bolognese.md",
     "notes/Digitale_certificaten.md",
     "Opzetten-site-to-site-vpn.md",
     "notes/Tanzu/Tanzu_demo.md",
@@ -158,7 +159,6 @@
     "Sriracha.md",
     "Recepten/sriracha.md",
     "Recepten/masala-kruiden.md",
-    "Recepten/kip-masala.md",
     "kubectl_aliases.md",
     "notes/Kubernetes_cka.md",
     "notes/Tanzu/tanzu_poc.md",
@@ -175,8 +175,6 @@
     "notes/Puppet/Friducation/10_Variables and templates.md",
     "notes/Puppet/Friducation/09_Package file service.md",
     "notes/Puppet/Friducation/08_Manifests and classes.md",
-    "notes/Puppet/Friducation/07_Agent Run.md",
-    "notes/Puppet/Friducation/06_Hello Puppet.md",
     "notes/Puppet/Friducation",
     "notes/Puppet",
     "notes/Tanzu",
