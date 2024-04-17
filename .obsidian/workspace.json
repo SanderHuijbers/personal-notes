@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recepten/Yakitori.md",
+                "file": "Websites/ikoula-css-aanpassingen.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recepten/Yakitori.md",
+                "file": "Websites/ikoula-css-aanpassingen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recepten/Yakitori.md",
+                "file": "Websites/ikoula-css-aanpassingen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recepten/Yakitori.md"
+                "file": "Websites/ikoula-css-aanpassingen.md"
               }
             }
           }
@@ -148,8 +147,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40233d4d323ee1ae",
+  "active": "062dcfd5b8c420c3",
   "lastOpenFiles": [
+    "Recepten/Yakitori.md",
     "Templates/recept.md",
     "Templates/note.md",
     "Templates",
@@ -176,7 +176,6 @@
     "notes/Puppet/Friducation/13_Conditional Statements.md",
     "notes/Puppet/Friducation/12_Facts.md",
     "notes/Puppet/Friducation/11_Class parameters.md",
-    "notes/Puppet/Friducation/10_Variables and templates.md",
     "notes/Puppet/Friducation",
     "notes/Puppet",
     "notes/Tanzu",
